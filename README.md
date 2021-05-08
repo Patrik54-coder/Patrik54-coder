@@ -1,6 +1,6 @@
 Hi my name is Patrik Augusto Liro 👋
 
-
+![](https://media.giphy.com/media/1nGi1Sio7ThRveZCt6/giphy.gif)
 
 - 📫 How to reach me:
 
