@@ -4,7 +4,7 @@ Hi my name is Patrik Augusto Liro 👋
 
 - 📫 How to reach me:
 
-     ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/patrik-augusto-liro-066345183/)
+     ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/patrik-augusto-liro-066345183/) - https://www.linkedin.com/in/patrik-augusto-liro-066345183/ 
 
 - 🌱 I’m currently learning:
 
