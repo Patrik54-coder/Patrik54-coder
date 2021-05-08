@@ -1,4 +1,4 @@
-Olá meu nome é Patrik Augusto Liro 👋
+Hi my name is Patrik Augusto Liro 👋
 
 
 
